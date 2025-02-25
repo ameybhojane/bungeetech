@@ -12,7 +12,7 @@ React JS, Tailwind, Antd
 
 The project is hosted at this link [https://bungeetech.vercel.app/](https://bungeetech.vercel.app/).
 
-        ## OR
+## OR
 
 You can run the application locally using following steps
 - Clone the github repo locally
